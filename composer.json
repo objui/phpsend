@@ -1,0 +1,21 @@
+{
+    "name": "objui/phpsend",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "objui",
+            "email": "objui@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "alibabacloud/client": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+           "objui\\phpsend\\": "src/"
+        }
+    }
+}
