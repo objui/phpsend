@@ -1,6 +1,6 @@
 {
     "name": "objui/phpsend",
-    "description": "",
+    "description": "Integrate major SMS platforms to send verification codes",
     "license": "MIT",
     "authors": [
         {
