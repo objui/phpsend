@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
-        "alibabacloud/client": "dev-master"
+        "alibabacloud/client": "1.5.25"
     },
     "autoload": {
         "psr-4": {
